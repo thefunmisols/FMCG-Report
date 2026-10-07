@@ -22,7 +22,7 @@ Key metrics visualized include:
 
 # Problem Statement
 
-Sales data existed across multiple dimensions such as **products, customers, states, and sales representatives**, but decision-makers lacked a centralized and visual system to answer key questions:
+Sales data existed across multiple dimensions such as **products, customers, states, and sales representatives**, but decision-makers lacked a centralized and visual system to answer key business questions:
 
 * Which **states generate the most revenue?**
 * Who are the **top-performing salespeople?**
